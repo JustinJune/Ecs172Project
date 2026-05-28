@@ -1,0 +1,10 @@
+Dataset/
+processed_sequences/
+
+# Generated experiment outputs
+sasrec_artifacts/
+sasrec_smoke/
+sasrec_earlystop_smoke/
+sasrec_random/
+sasrec_semantic/
+sasrec_semantic_outcome/
